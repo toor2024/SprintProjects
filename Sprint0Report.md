@@ -22,5 +22,14 @@ GitHub Repository: https://github.com/toor2024/SprintProjects
     Sourc code:
 
 
+    Gui:
+    - Library: JavaFX
+    - Screnshot:
+    - Source Code:
+
+
+
+
+
 
 
