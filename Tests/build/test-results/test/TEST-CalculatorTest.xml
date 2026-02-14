@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-13T23:55:51.942Z" hostname="deeps-air-2.kc.umkc.edu" time="0.017">
+  <properties/>
+  <testcase name="add_returnsCorrectSum()" classname="CalculatorTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

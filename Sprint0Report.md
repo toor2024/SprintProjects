@@ -18,14 +18,14 @@ GitHub Repository: https://github.com/toor2024/SprintProjects
     )
     - Two JUnit test: CalculatorTest() - checks that adding two integers returns the correct sum. CardisRed- Checks that hearts or diamonds are red and spades or clubs are lack.
 
-    Screenshot: 
-    Sourc code:
+    Screenshot: Tests/tests_passed.png
+    Sourc code: Tests/src/test/java/CalculatorTest.java, Tests/src/test/java/CardTest.java
 
 
     Gui:
     - Library: JavaFX
-    - Screnshot:
-    - Source Code:
+    - Screnshot: GuiDemo/gui_screenshot.png
+    - Source Code: GuiDemo/src/main/java/main.java
 
 
 

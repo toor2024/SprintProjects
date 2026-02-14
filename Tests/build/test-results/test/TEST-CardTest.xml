@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-13T23:55:51.960Z" hostname="deeps-air-2.kc.umkc.edu" time="0.002">
+  <properties/>
+  <testcase name="isRed_trueForHeartsAndDiamonds_falseForClubsAndSpades()" classname="CardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
