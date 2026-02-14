@@ -10,6 +10,9 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 
+
+    //Prompted CHATgpt to create a method using JavaFX widow by making a pane, a title label, two black lines, 
+    // two radio buttons and a checkbox. Make the size of it 400x220//
 public class main extends Application {
 
     @Override
